@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Kenny Reiners",
+    "occupation":"Cybersecurity Expert and Software Engineer",
+    "description":"I have a passion for cybersecurity and blockchain, and I plan on creating many React and Solidity based decentralized applications in the future, which you can find below!",
+    "image":"profilepic.jpg",
+    "bio":"I've been in the cybersecurity realm for over 7 years now, and I'm working towards becoming a fully fledged blockchain engineer and smart contract developer.  I have a huge passion for blockchain technologies, specifically Ethereum, Chainlink, and smart contract development.  I have a great foundation in cybersecurity, but I've been transitioning to become a software engineer and decentralized application developer since the beginning of 2020.  I grew up in Minnesota, and love the outdoors. I currently live in Maryland with my wife Christine and daughter Gwyneth.",
+    "contactmessage":"Please feel free to contact me at any time!",
+    "email": "Reiners88@gmail.com",
+    "phone": "612-327-5616",
+    "address":{
+      "state":"Maryland"
+    },
+    "website": "http://www.kenreinersdev.com",
+    "resumedownload":"https://docs.google.com/document/d/18Vsjas81yH8lQDxqVLkn70yeqzb-JMXBxwRlGPHGrz0/edit?usp=sharing",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/maverick_705?s=09",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kenneth-reiners-755806167/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/maverick705",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My cybersecurity skillsets include threat hunting and incident response, network engineering/security, and data analytics. I'm currently transitioning to become a full-time software engineer.",
+    "education":[
+      {
+        "school":"University Maryland Global College",
+        "degree":"Masters in Cybersecurity Technology",
+        "graduated":"March 2019",
+        "description":"The Cybersecurity Technology masters program provided me an extensive amount of knowledge with a focus on CISSP fundamentals."
+      },
+      {
+        "school":"Mankato State University",
+        "degree":"Exercise Science",
+        "graduated":"April 2012",
+        "description":"Although this degree isn't very useful to me at a professional level, I'm a huge biohacker nerd, and love all things health and fitness."
+      }
+    ],
+    "work":[
+      {
+        "company":"Integrity Consulting and Engineering Security Solutions",
+        "title":"Software Engineer / Database Administrator",
+        "years":"September 2020 - Present",
+        "description":"I'm currently a software engineer and Oracle database administrator at a Navy Intelligence center in Maryland.  I love it so far!"
+      },
+      {
+        "company":"Blackwood",
+        "title":"Solutions Architect",
+        "years":"April 2019 - March 2020",
+        "description":"I worked at a small cybersecurity company in Maryland called Blackwood for just under a year.  In this role I was one of the technical engineers that worked with the sales team to help provide architectural solutions, customer support, and technical demonstrations for enterprise grade cybersecurity tools.  I primarily worked with Splunk, but I also worked with Palo Alto Firewalls, Gigamon, and several other tools to a lesser extent."
+      },
+      {
+        "company":"U.S. Navy",
+        "title":"Cryptologist Technician - Networks",
+        "years":"July 2013 - April 2019",
+        "description":"I spent six years in active duty Navy as a Cryptologist Technician - Networks at Fort Meade, Maryland.  My first tour primarily consisted of network exploitation and SIGINT analysis of a foreign adversary.  I was a systems engineer for my second tour where I leveraged a mobile incident response and threat hunting toolkit for carrying out investigations into malicious attacks carried out by advanced persistent threats."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Blockchain",
+        "level":"75%"
+      },
+      {
+        "name":"Solidity",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Truffle",
+        "level":"60%"
+      },
+      {
+        "name":"Chainlink",
+        "level":"70%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"50%"
+      },
+      {
+        "name":"Oracle Database",
+        "level":"30%"
+      },
+      {
+        "name":"Threat Hunting",
+        "level":"90%"
+      },
+      {
+        "name":"Splunk",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"First Portfolio Website",
+        "category":"React",
+        "image":"Portfolio.png",
+        "url":""
+      }
+    ]
+  },
+  "blog":{
+    "blogs": [
+      {
+        "title":"My First Blog!",
+        "category":"Who am I and where am I going?",
+        "image":"Portfolio.png",
+        "url":""
+      }
+    ]
+  }
+
+}
