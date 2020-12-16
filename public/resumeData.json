@@ -6,19 +6,13 @@
     "image":"profilepic.jpg",
     "bio":"I've been in the cybersecurity realm for over 7 years now, and I'm working towards becoming a fully fledged blockchain engineer and smart contract developer.  I have a huge passion for blockchain technologies, specifically Ethereum, Chainlink, and smart contract development.  I have a great foundation in cybersecurity, but I've been transitioning to become a software engineer and decentralized application developer since the beginning of 2020.  I grew up in Minnesota, and love the outdoors. I currently live in Maryland with my wife Christine and daughter Gwyneth.",
     "contactmessage":"Please feel free to contact me at any time!",
-    "email": "Reiners88@gmail.com",
-    "phone": "612-327-5616",
+    "email": "k-rex2016@outlook.com",
     "address":{
       "state":"Maryland"
     },
     "website": "http://www.kenreinersdev.com",
     "resumedownload":"https://docs.google.com/document/d/18Vsjas81yH8lQDxqVLkn70yeqzb-JMXBxwRlGPHGrz0/edit?usp=sharing",
     "social":[
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/maverick_705?s=09",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/kenneth-reiners-755806167/",
@@ -28,11 +22,21 @@
         "name":"github",
         "url":"https://github.com/maverick705",
         "className":"fa fa-github"
+      },
+      {
+        "name":"blog",
+        "url":"https://kenreinersblog.netlify.app",
+        "className":"fa fa-book"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/maverick_705?s=09",
+        "className":"fa fa-twitter"
       }
     ]
   },
   "resume":{
-    "skillmessage":"My cybersecurity skillsets include threat hunting and incident response, network engineering/security, and data analytics. I'm currently transitioning to become a full-time software engineer.",
+    "skillmessage":"My core cyber skillsets include threat hunting and incident response, network engineering, and data analytics. But see below for my software engineering skillsets!",
     "education":[
       {
         "school":"University Maryland Global College",
@@ -69,10 +73,6 @@
     ],
     "skills":[
       {
-        "name":"Blockchain",
-        "level":"75%"
-      },
-      {
         "name":"Solidity",
         "level":"55%"
       },
@@ -85,25 +85,14 @@
         "level":"60%"
       },
       {
-        "name":"Chainlink",
-        "level":"70%"
-      },
-      {
         "name":"HTML/CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Git",
         "level":"50%"
-      },
-      {
-        "name":"Oracle Database",
-        "level":"30%"
-      },
-      {
-        "name":"Threat Hunting",
-        "level":"90%"
-      },
-      {
-        "name":"Splunk",
-        "level":"80%"
       }
+
     ]
   },
   "portfolio":{
@@ -115,16 +104,7 @@
         "url":""
       }
     ]
-  },
-  "blog":{
-    "blogs": [
-      {
-        "title":"My First Blog!",
-        "category":"Who am I and where am I going?",
-        "image":"Portfolio.png",
-        "url":""
-      }
-    ]
   }
+
 
 }

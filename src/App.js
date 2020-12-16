@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
-import Blog from './Components/Blog'
+
 
 class App extends Component {
 
@@ -49,8 +49,6 @@ class App extends Component {
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
-        <Blog data={this.state.resumeData.blog}/>
-
         <Footer data={this.state.resumeData.main}/>
       </div>
     );
@@ -62,6 +60,7 @@ export default App;
 
 /* 
         import Contact from './Components/Contact';
-
+        import Blog from './Components/Blog'
+        <Blog data={this.state.resumeData.blog}/>
         <Contact data={this.state.resumeData.main}/>
 */

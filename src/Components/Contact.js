@@ -6,7 +6,6 @@ class Contact extends Component {
     if(this.props.data){
       var name = this.props.data.name;
       var state = this.props.data.address.state;
-      var phone= this.props.data.phone;
       var message = this.props.data.contactmessage;
     }
 

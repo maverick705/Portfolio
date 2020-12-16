@@ -22,8 +22,7 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#about" >About</a></li>
 	         <li><a className="smoothscroll" href="#resume" >Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio" >Projects</a></li>
-            <li><a className="smoothscroll" href="#blog" >Blog</a></li>
-            <li><a className="smoothscroll" href="#contact" >Contact</a></li>
+
          </ul>
 
       </nav>
@@ -31,7 +30,7 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h2 style={{color: '#ff5500', fontSize: '3em', marginBottom: '20px'}}>Welcome to my portfolio!.</h2>
-            <h3 style={{color: 'white'}}>I'm a Maryland based cybersecurity expert and software engineer.  I have a passion for cybersecurity and blockchain, and I plan on creating many React and Solidity based decentralized applications in the future!</h3>
+            <h3 style={{color: 'white'}}>I'm Kenny Reiners, and I'm a Maryland based cybersecurity expert and software engineer.  I have a passion for cybersecurity and blockchain, and I plan on creating many React and Solidity based decentralized applications in the future!</h3>
             <hr />
             <ul className="social">
                {networks}
@@ -49,3 +48,8 @@ class Header extends Component {
 }
 
 export default Header;
+
+/*
+            <li><a className="smoothscroll" href="#blog" >Blog</a></li>
+            <li><a className="smoothscroll" href="#contact" >Contact</a></li>
+*/
