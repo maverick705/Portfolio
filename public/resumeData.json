@@ -74,11 +74,11 @@
     "skills":[
       {
         "name":"Solidity",
-        "level":"55%"
+        "level":"65%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"Truffle",
@@ -101,7 +101,25 @@
         "title":"First Portfolio Website",
         "category":"React",
         "image":"Portfolio.png",
-        "url":""
+        "url":"https://github.com/maverick705/Portfolio"
+      },
+      {
+        "title":"Ethereum Decentralized Application",
+        "category":"React & Solidity",
+        "image":"dApp.png",
+        "url":"https://github.com/maverick705/BasicEthdApp"
+      },
+      {
+        "title":"My Blog",
+        "category":"React & Sanity",
+        "image":"Blog.png",
+        "url":"https://kenreinersblog.netlify.app/post"
+      },
+      {
+        "title":"Ethereum Wallet App",
+        "category":"React & Solidity",
+        "image":"wallet.jpg",
+        "url":"https://github.com/maverick705/Eth_Wallet"
       }
     ]
   }

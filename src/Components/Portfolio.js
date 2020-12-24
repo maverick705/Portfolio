@@ -8,7 +8,10 @@ class Portfolio extends Component {
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+            <a 
+                target="_blank"
+                rel="noopener noreferrer"
+                href={projects.url} title={projects.title}>
                <img alt={projects.title} src={projectImage} />
                <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -30,8 +33,16 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Projects!</h1>
+            <h1>Check Out Some of My      
+              <a
+                href="https://github.com/maverick705 "
+                target="_blank"
+                rel="noopener noreferrer"
+                alt="projects"
+              > Projects</a>
 
+            </h1>
+            
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
             </div>
