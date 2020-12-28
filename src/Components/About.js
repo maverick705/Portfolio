@@ -23,7 +23,7 @@ class About extends Component {
             <p>{bio}</p>
             <h2>Blog</h2>
             Be sure to check out my
-            <a target="_blank" rel="noopener noreferrer" style={{marginBottom: '20px'}} href="https://kenreinersblog.netlify.app" >
+            <a target="_blank" rel="noopener noreferrer" style={{marginBottom: '20px'}} href="https://kenreinersblog.com" >
                   <span style={{fontSize: '20px', color: '#ff5500'}}> Blog </span>
                </a>      
              as well! 
