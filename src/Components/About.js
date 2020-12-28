@@ -26,9 +26,7 @@ class About extends Component {
             <a target="_blank" rel="noopener noreferrer" style={{marginBottom: '20px'}} href="https://kenreinersblog.netlify.app" >
                   <span style={{fontSize: '20px', color: '#ff5500'}}> Blog </span>
                </a>      
-             as well!
-
-               
+             as well! 
             <div className="row">
                <div className="columns contact-details">
                   <h2 style={{marginTop: '20px'}}>Contact Details</h2>
